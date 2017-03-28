@@ -1,0 +1,7 @@
+﻿  Source.cpp
+g:\project\opengl_texture\opengl_texture\source.cpp(16): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+g:\project\opengl_texture\opengl_texture\source.cpp(25): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Opengl_texture.vcxproj -> G:\project\Opengl_texture\Debug\Opengl_texture.exe
+  Opengl_texture.vcxproj -> G:\project\Opengl_texture\Debug\Opengl_texture.pdb (Partial PDB)
